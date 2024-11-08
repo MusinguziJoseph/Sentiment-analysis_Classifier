@@ -1,6 +1,7 @@
-Sentiment Analysis Classifier
+
 Overview
 This project implements a sentiment analysis classifier using machine learning techniques. The classifier is designed to analyze text data and predict the sentiment expressed in the text, categorizing it as positive, negative, or neutral. This tool can be beneficial for various applications, including social media monitoring, customer feedback analysis, and more.
+
 Features
 Classifies text data into sentiment categories.
 Supports preprocessing techniques to clean and standardize text.
@@ -43,8 +44,10 @@ This classifier was trained on Flikpart product datast,  a public dataset availa
 
 Evaluation metrics include accuracy, F1-score, precision, and recall, which are logged in the output after training.
 
+
 Contributing
 We welcome contributions! If you’d like to improve this project, please fork the repository, make your changes, and create a pull request.
+
 
 License
 This project is licensed under the MIT License. 
