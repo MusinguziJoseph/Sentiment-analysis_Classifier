@@ -2,6 +2,9 @@
 ## Overview
 
 This project implements a sentiment analysis classifier using machine learning techniques. The classifier is designed to analyze text data and predict the sentiment expressed in the text, categorizing it as positive, negative, or neutral. This tool can be beneficial for various applications, including social media monitoring, customer feedback analysis, and more.
+![image alt]()
+![image alt]()
+![image alt]()
 
 ## Features
 
