@@ -28,9 +28,9 @@ This project implements a sentiment analysis classifier using machine learning t
  * License
 
 ## Installation
- - To set up this project, follow these steps:
+ To set up this project, follow these steps:
 
-- Clone this repository:
+ Clone this repository:
 
 git clone https://github.com/MusinguziJoseph/Sentiment-analysis_Classifier.git
   cd sentiment-analysis-classifier
