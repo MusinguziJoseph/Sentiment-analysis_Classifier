@@ -5,7 +5,7 @@ This project implements a sentiment analysis classifier using machine learning t
 ## Demo
 ![image alt](https://github.com/MusinguziJoseph/Sentiment-analysis_Classifier/blob/fbad698a73fdbbdc140fdfee05455e24d5de2f03/Positive%20sentiment.jpg)
 ![image alt](https://github.com/MusinguziJoseph/Sentiment-analysis_Classifier/blob/1a6fd877571b8e3ee9cb7ab21daef35c68609046/Negative%20sentiment.jpg)
-![image alt]()
+![image alt](https://github.com/MusinguziJoseph/Sentiment-analysis_Classifier/blob/48478abf5290545977cdd46bc9f1bf3e46d78e5b/NEUTRAL.jpg)
 
 ## Features
 
